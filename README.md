@@ -112,12 +112,3 @@ console.log('Appended Safe Text Node:', parentElement.child); // Hello <world>
 ## License
 
 This project is licensed under the MIT License.
-
-### Ek Notlar
-
-1. **README.md İçeriği:** `README.md` dosyası projenizin kurulum ve kullanım talimatlarını içermelidir. Fonksiyonlar hakkında kısa açıklamalar ve örnekler vermek kullanıcıların modülü kolayca kullanabilmesini sağlar.
-2. **Modül Adı:** `secure-text-processing` modül adını kullanarak, npm üzerinden yayımlamadan önce npm'de bu adın müsait olup olmadığını kontrol etmelisiniz. Eğer ad alınmışsa, benzersiz bir isim seçmelisiniz.
-3. **npm install:** Kullanıcıların projeyi kendi sistemlerine kurabilmeleri için gerekli komutları sağlar.
-4. **Fonksiyon Açıklamaları ve Örnek Kullanımlar:** Her fonksiyonun ne yaptığını ve nasıl kullanıldığını açıklar. Bu, kullanıcıların modülün yeteneklerini hızlıca kavramalarına yardımcı olur.
-
-Bu adımları izleyerek projenizi iyi bir şekilde belgeleyebilir ve kullanıcılara yardımcı olabilirsiniz.
